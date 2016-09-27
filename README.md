@@ -1,5 +1,5 @@
 # iPhoneAvailability
-macOS 大陆零售店预约店取监控
+iPhone7 大陆零售店预约店取监控 for macOS 
 
 # How to Use
 1. Install Cocoapods
