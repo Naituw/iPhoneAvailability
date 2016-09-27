@@ -129,7 +129,7 @@
         }];
     };
     
-    if (_storeIDToNameMap) {
+    if (_storeIDToNameMap && _storeCityToStoreIDsMap) {
         work();
     } else {
         [self reloadStoreInfoWithCompletion:work];
